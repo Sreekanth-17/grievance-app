@@ -1,0 +1,6 @@
+.heart-pattern {
+  background-color: #c4b5fd;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Ctext x='40' y='80' font-size='48' fill='red'%3E%E2%9D%A4%EF%B8%8F%3C/text%3E%3Ctext x='200' y='220' font-size='48' fill='%23ff69b4'%3E%E2%9D%A4%EF%B8%8F%3C/text%3E%3C/svg%3E");
+  background-size: 300px 300px;
+  background-repeat: repeat;
+}
